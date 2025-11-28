@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\cart\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\cart\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\adminorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\adminorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\adminproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\adminproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\adminaccounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\adminaccounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\adminaccounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\adminaccounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|c:\\users\\administrator\\desktop\\ecommerceproject\\ecommerceproject\\ecommerceproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9320FA1D-876C-4C1E-A58A-3D3D4D110B12}|ECommerceProject\\ECommerceProject.csproj|solutionrelative:ecommerceproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:25:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Cart\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\Cart\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Cart\\OrderSuccess.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\Cart\\OrderSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:26:08.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:26:05.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\AdminAccounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\AdminAccounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\AdminAccounts\\Edit.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\AdminAccounts\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:15:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\AdminAccounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\AdminAccounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\AdminAccounts\\Index.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\AdminAccounts\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:14:41.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Controllers\\AdminAccountsController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject\\Controllers\\AdminAccountsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Controllers\\AdminAccountsController.cs",
+              "RelativeToolTip": "ECommerceProject\\Controllers\\AdminAccountsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:13:45.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Controllers\\AdminProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject\\Controllers\\AdminProductsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Controllers\\AdminProductsController.cs",
+              "RelativeToolTip": "ECommerceProject\\Controllers\\AdminProductsController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwJUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:41:18.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\AdminProducts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\AdminProducts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\AdminProducts\\Index.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\AdminProducts\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:42:25.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\appsettings.json",
+              "RelativeToolTip": "ECommerceProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T06:35:42.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\AdminOrders\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\AdminOrders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\AdminOrders\\Details.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\AdminOrders\\Details.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAJoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:04:53.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ECommerceProject\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv4kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:00:52.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:02:53.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:02:30.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ECommerceProject\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T03:01:58.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ECommerceProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwG8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:01:17.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ECommerceProject\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\Models\\Customer.cs",
+              "RelativeToolTip": "ECommerceProject\\Models\\Customer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T03:00:55.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
